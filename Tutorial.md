@@ -6,7 +6,7 @@
 The US Health Map tool, created by the [Institute for Health Metrics and Evaluation (IHME)](http://www.healthdata.org/about), provides impressive online data visualization capabilities for mortality, life expectancy, and risk factor data across the United States. The underlying datasets are part of the Global Health Data Exchange (GHDx), a catalog of data compiled and managed by IHME. This catalog aims to gather and standardize world-wide public health data generated both by IHME initiatives and outside sources. The US Health Map tool uses a subset of this data catalog to allow for the visualization of health trends across the United States. 
 
 ### Features
-![Overview](US Health Map IHME Viz Hub.png)	
+![Overview](US%20Health%20Map%20%20%20IHME%20Viz%20Hub.png)	
 
 
 
