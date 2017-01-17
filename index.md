@@ -1,5 +1,5 @@
 # US Health Map Overview and Tutorial
-## <http://vizhub.healthdata.org/subnational/usa>
+<http://vizhub.healthdata.org/subnational/usa>
 
 
 ### Overview
