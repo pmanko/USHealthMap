@@ -8,6 +8,15 @@ The US Health Map tool, created by the [Institute for Health Metrics and Evaluat
 ### Features
 ![Overview](US%20Health%20Map%20%20%20IHME%20Viz%20Hub.png)	
 
+1. **Dataset Selection** - provides the choice for the visualization of *Life Expectancy*, *Mortality Rates*, or *Risk Factors* on the map. 
+2. **Locations** - provides the ability to select of multiple states or counties for comparison of data. *Warning - selection of locations should match the selected Administrative Division (3). If `State` is chosen in the Administrative Division (3), county data will not show up in the time trend (6) or colored dot plot (7). Time trend (6) comparisons between counties and states do show up if Admin. Division is set to county and both county and state locations are chosen.*    
+3. **Administrative Division** - allows the choice of the granularity of the displayed map and dotplot data between `State` and `County`.
+4. **Sex** - Filters the displayed data by a specific sex.
+5. **Time Interval** - Filters data by specific year. Use of the slider allows for the visualization of trends over time. Play button automatically animates the year-to-year transitions. 
+6.
+7.
+8.
+
 
 
 ### Tutorial
@@ -26,6 +35,7 @@ The US Health Map tool, created by the [Institute for Health Metrics and Evaluat
 #### Data Download and Analysis
 
 
+### Additonal Information
 
 
 
