@@ -26,16 +26,16 @@ The US Health Map tool, created by the [Institute for Health Metrics and Evaluat
 2.  Using the Locations (2) select box, add King County, WA, the state of New Mexico, and Somerset County, NJ as selected locations. You should have six locations selected, including the entire United States, which is selected by default. 
 
 3.  Visualize the 2012 prevalence data for Binge Drinking among drinkers for both sexes. Use the dotplot to view individual data points on the prevalence scale. 
-    * What are the worst 3 counties for this risk factor?
-    * What do these 3 counties have in common?
+    * What are the worst 3 counties in the nation for this risk factor?
+    * What do these 3 counties seem to have in common demographically? (hint: quickly check Wikipedia)
 
 4. The dataset includes computed rates of change for this risk factor. Click on `Show advanced options` and click the white box to the right of `Rate of change` to toggle this option on. 
     * What is the annual percent change for Somerset County, NJ?
     * Switch between the sexes. Is there a noticable national difference between change among females and males?
-    * Toggle `Rate of change` off again before continuing to the next step.
+    * Toggle `Rate of change` off again and set `Sex` to both males and females before continuing to the next step.
  
 5. Most of the map is colored by some shade of blue, since the outlier counties are pulling the color scale to the right. Click on `Show advanced options` and drag the two white bars on the prevalence scale to include the middle section of the data (from ~24% to ~58%). Click the `Set Scale` button to rescale the color gradient to this range.
-    * What is the binge drinking prevalence among your selected locations? What color does this prevalence correspond to?
+    * What is the binge drinking prevalence among your selected locations? What color does this prevalence correspond to in the rescaled scale?
     * What is the uncertainty of the prevalence in King County, WA?
 
 6. Examine the time trends for this Risk factor. 
